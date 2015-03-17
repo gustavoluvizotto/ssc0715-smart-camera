@@ -1,0 +1,1 @@
+Projeto que extrai background de uma imagem, faz o contorno de imagens que se movimentam a partir do background e determina o centro, para o caso de centralização da câmera para uma pessoa em específico. Desenvolvido em sala de aula para a Disciplina de Sensores Inteligentes como um programa para aprendizado de OpenCV
